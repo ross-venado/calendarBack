@@ -1,8 +1,9 @@
 # calendarBack
+---
 Poryecto node js backend calendario Grupo 7
 
 #Lo que se utilizo
-
+--
 
 *Node
 
@@ -39,6 +40,7 @@ Poryecto node js backend calendario Grupo 7
 
 
 #comandos
+--
 * npm run dev --Ejecutar el proyecto en modo dev (comando para nodemon)
 * nodemon index.js
 * node index.js --Ejecutar Proyecto 
@@ -46,6 +48,7 @@ Poryecto node js backend calendario Grupo 7
 * npm install --Instalar el proyecto
 
 #servidor de DB
+--
 https://account.mongodb.com/account/login?nds=true
 
 
